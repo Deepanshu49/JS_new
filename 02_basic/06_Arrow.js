@@ -27,5 +27,5 @@ const chai = () => {//this is declaration of the arrow function
 chai()
 //Arrow function
 //declare () =>
-//Implisite arrow funtion
+//Implitite arrow funtion
 //var_Type var_name = (parameter) => (what_you_want_to_return) //for the function of one line 
