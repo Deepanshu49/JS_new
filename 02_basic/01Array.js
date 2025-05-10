@@ -33,7 +33,7 @@ console.log(typeof newArr )
 //.spread
 const A = [1,2,3,4]
 const B = [6,7,3,4]
-const c = [...A,...B]
+const c = [...A,...B]//This methos is called Spread 
 console.log(c)
 //.flate(value)  --> it flate the array of array or number and return a plate array upto the value
 
