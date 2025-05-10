@@ -29,5 +29,5 @@ function sumsum(n){
 //it fail
 //console.log(addadd(3))
  const  addadd = function(n){
-    return n+1;
+    return n+1; 
 }
